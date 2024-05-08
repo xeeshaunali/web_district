@@ -704,7 +704,7 @@ textarea:hover, input:hover {
   color: #333333 !important;
   font-weight: bolder !important;
   background: white;  
-  box-shadow: 0 0 5px #9262ff, 0 0 25px #9262ff, 0 0 50px #9262ff, 0 0 200px #9262ff;
+  box-shadow: 0 0 5px #FFF, 0 0 25px #FFF, 0 0 50px #FFF, 0 0 200px #FFF;
   border-radius: 3px;
   
 }
@@ -1819,9 +1819,9 @@ h3.quote::before {
 
 
 .ml6 {
-  font-size: 3rem;
+  font-size: 2rem;
   color: black;
-  font-weight: bolder;
+  font-weight: 500;
 }
 
 .image-height {
@@ -2491,4 +2491,9 @@ a:focus {
   .container {
     max-width: 1170px;
   }
+}
+
+
+.list-color:hover {
+  color: white !important;
 }

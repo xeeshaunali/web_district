@@ -33,7 +33,7 @@ include "header.php";
 			</div>
 		</div>	
 
-    <div class="row container-fluid" style="margin-top:5rem;margin-right:3rem;margin: left 3rem;">
+    <div class="row container-fluid" style="margin-top:1rem;margin-right:3rem;margin: left 3rem;">
         <div class="col-12 ">
            <!-- Search input -->
     <input type="text" id="searchInput" class="form-control mb-3" placeholder="Type search query">
@@ -44,7 +44,7 @@ include "header.php";
                 <th scope="col">S.NO</th>
                 <th scope="col">Name of Court</th>
                 <th scope="col">Police Station Assigned</th>
-                <th scope="col">Remarks</th>
+                <!-- <th scope="col">Remarks</th> -->
               </tr>
             </thead>
             <tbody>
@@ -52,18 +52,18 @@ include "header.php";
                 <th scope="row">1</th>
                 <td style="width:25%;">Civil Judge & J.M-I, Kotri</td>
                 <td>Coal Mines<br>Jamshoro<br>SITE Kotri</td>
-                <td class="text-center">                                   
+                <!-- <td class="text-center">                                  
                   <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="#" target="_blank">--</a></button>
-                </td>
+                </td> -->
               </tr>
               
               <tr class="text-center">
                 <th scope="row">2</th>
                 <td style="width:25%;"> Civil Judge & J.M-II, Kotri</td>
                 <td>Looni Kot <br>	Railway (Jamshoro @ Kotri)</td>
-                <td class="text-center">                                   
+                <!-- <td class="text-center">                                   
                   <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="#" target="_blank">--</a></button>
-                </td>
+                </td> -->
               </tr>
 
 
@@ -71,9 +71,9 @@ include "header.php";
                 <th scope="row">3</th>
                 <td style="width:25%;">Consumer Protection Court/CJJM,Jamshoro</td>
                 <td>Kotri <br> Budhapur</td>
-                <td class="text-center">                                   
+                <!-- <td class="text-center">                                   
                   <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="#" target="_blank">--</a></button>
-                </td>
+                </td> -->
               </tr>
 
 
@@ -81,9 +81,9 @@ include "header.php";
                 <th scope="row">4</th>
                 <td style="width:25%;">Civil Judge & Judicial Magistrate I, Sehwan</td>
                 <td>Thebat<br>Jhangara<br>Naing Shareef<br>Sehwan</td>
-                <td class="text-center">                                   
+                <!-- <td class="text-center">                                   
                   <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="#" target="_blank">--</a></button>
-                </td>
+                </td> -->
               </tr>
 
 
@@ -91,9 +91,9 @@ include "header.php";
                 <th scope="row">5</th>
                 <td style="width:25%;">Civil Judge & Judicial Magistrate II, Sehwan</td>
                 <td>Bhan Saeedabad<br>Khero Dero<br>Amri<br>Mahi Otho </td>
-                <td class="text-center">                                   
+                <!-- <td class="text-center">                                   
                   <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="#" target="_blank">--</a></button>
-                </td>
+                </td> -->
               </tr>
 
 
@@ -101,18 +101,18 @@ include "header.php";
                 <th scope="row">6</th>
                 <td style="width:25%;">Civil Judge & Judicial Magistrate Manjhand</td>
                 <td>Manjhand<br>Chachar<br>Rajri<br>Khanoth</td>
-                <td class="text-center">                                   
+                <!-- <td class="text-center">                                   
                   <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="#" target="_blank">--</a></button>
-                </td>
+                </td> -->
               </tr>
 
               <tr class="text-center">
                 <th scope="row">7</th>
                 <td style="width:25%;">Civil Judge & Judicial Magistrate I,Thano Bula Khan / CJJM-III at Thano Bula Khan </td>
                 <td>Thano Bula Khan<br>Wild Life Sub Center Thana Ahmed Khan<br>Nooriabad</td>
-                <td class="text-center">                                   
+                <!-- <td class="text-center">                                   
                   <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="#" target="_blank">--</a></button>
-                </td>
+                </td> -->
               </tr> 
               
                 

@@ -53,15 +53,15 @@ include 'header.php';
 
 <!-- section Three Start -->
 
-<section class="section container about-2 position-relative mt-4 shadow rounded">
+<section class="section container  about-2 position-relative mt-1 shadow rounded">
 	<div class="container">
-		<div class="row">			
+		<div class="row" style="height:2rem;">			
 			<div class="col-lg-12 col-md-12 col-sm-12" data-aos="fade-right">
 				<div class="about-item pr-3 mb-5 mb-lg-0">
-					<p class=" ml6 letter text-wrapper" data-anijs="if: mouseover, do: tada animated">Latest News</p>
-					<!-- <h2 class="mt-3 mb-4 position-relative content-title text-black-bold ml6 animated fadeInRight">District Court Jamshoro</h2> -->
+					<p class="ml6 text-wrapper" data-anijs="if: mouseover, do: tada animated">Career Update</p>
+										
 					<div class="alert" role="alert" >
-						<p class="text-justify text-black text-center" style="font-size:1rem;">Job have been announced in District & Sessions Jamshoro Kindly Check Job portal for Further Information <a href="jobs.php"><button type="button" class="btn btn-success rounded shadow btn-sm" data-toggle="collapse" data-anijs="if: mouseover, do: bounce animated" style="background-color:#2c3e50;">More Info</button></a></p>
+						<p class="text-justify text-black text-center" style="font-size:1.5rem;">For job information kindly kheck Job portal <a href="jobs.php"><button type="button" class="btn rounded btn-sm" data-toggle="collapse" data-anijs="if: mouseover, do: bounce animated" style="background-color:#4fbb53; color:#fff">More Info</button></a></p>
 						
 					</div>
 					
@@ -78,7 +78,7 @@ include 'header.php';
         <div class="row">
           <div class="col-md-6 col-lg-6 text-center">
             <h3 class="line-height-1 mb-3"><span class="d-block display-4 line-height-1 text-black text-success">Welcome to</span> <span class="d-block display-4 line-height-1"><em class="text-primary font-weight-bold"><h1 class="font-size-para" >District Court Jamshoro</h1></em></span></h3>
-            <p style="font-size:1rem; color:black;">The District court Jamshoro was created in year 2005. District Court Jamshoro has endeavored to facilitate speedy justice across the district and to ensure this goal; instant retrieval of data by the click of a button has been our endeavor. All the courts have been provided computers and are connected through a computer network; everyone is able to locate their case and its status in the comfort of their places of work or at home.
+            <p style="font-size:1rem; color:black;">The District court Jamshoro was created in year 2005 and has endeavored to facilitate speedy justice to litigents and to ensure this goal; instant retrieval of data by the click of a button has been our endeavor. With the efforts of Honourable High Court of Sindh IT Department as well as IT department of District Court the courts have been provided computers; all cases are updated daily on Case Flow Management System District Courts Developed by IT department, High Court of Sindh, It is easy to get update of cases and status at the comfort of work or at home.
             </p>
             <p><a href="#"><small class="btn btn-success round shadow text-uppercase font-weight-bold">Read More</small></a></p>
           </div>
@@ -121,21 +121,21 @@ include 'header.php';
               <div class="card card100 border-card mt-2">
 
                 <ul class="list">
-                  <li class="mt-5"><a href="https://cases.districtcourtssindh.gos.pk/" target="_blank"><i class="fa-solid fa-magnifying-glass-plus"></i> <span>Search Case Status</span></a></li>
+                  <li class="mt-5"><a href="https://cases.districtcourtssindh.gos.pk/" target="_blank"><i class="fa-solid fa-magnifying-glass-plus " ></i> <span class="list-color">Search Case Status</span></a></li>
         
-                  <li><a href="https://cases.districtcourtssindh.gos.pk/causelist" target="_blank"><i class="fa fa-link"></i> <span>Cause List of Courts</span></a></li>
+                  <li><a href="https://cases.districtcourtssindh.gos.pk/causelist" target="_blank"><i class="fa fa-link"></i> <span class="list-color">Cause List of Courts</span></a></li>
         
-                  <li><a href="http://43.245.130.96/cfms_dc_v26/public-ocp" target="_blank"><i class="fa-solid fa-link"></i> <span>Online Court Proceedings</span></a></li>
+                  <li><a href="http://43.245.130.96/cfms_dc_v26/public-ocp" target="_blank"><i class="fa-solid fa-link"></i> <span class="list-color">Online Court Proceedings</span></a></li>
         
-                  <li><a href="https://www.sindhhighcourt.gov.pk/cfmsdc_links_conn.php" target="_blank"><i class="fa fa-link" aria-hidden="true"></i> <span>CFMS-DC HC Links</span></a></li>
+                  <li><a href="https://www.sindhhighcourt.gov.pk/cfmsdc_links_conn.php" target="_blank"><i class="fa fa-link" aria-hidden="true"></i> <span class="list-color">CFMS-DC HC Links</span></a></li>
 
-                  <li><a href="https://cases.districtcourtssindh.gos.pk/advocatewise" target="_blank"><i class="fa-solid fa-list"></i> <span>Advocate's Cause List</span></a></li>
+                  <li><a href="https://cases.districtcourtssindh.gos.pk/advocatewise" target="_blank"><i class="fa-solid fa-list"></i> <span class="list-color">Advocate's Cause List</span></a></li>
         
-                  <li><a href="https://cases.districtcourtssindh.gos.pk/advocatewise" target="_blank"><i class="fa-solid fa-gavel"></i> <span>Search Advocate</span></a></li>
+                  <li><a href="https://cases.districtcourtssindh.gos.pk/advocatewise" target="_blank"><i class="fa-solid fa-gavel"></i> <span class="list-color">Search Advocate</span></a></li>
                   
-                  <li><a href="https://www.sindhhighcourt.gov.pk/khi/" target="_blank"><i class="fa-brands fa-searchengin"></i><span>Case Search (Sindh High Court)</span></a></li>
+                  <li><a href="https://www.sindhhighcourt.gov.pk/khi/" target="_blank"><i class="fa-brands fa-searchengin"></i><span class="list-color">Case Search (Sindh High Court)</span></a></li>
         
-                  <li><a href="https://districtcourtseast.gos.pk/judgement.php" target="_blank"><i class="fa-solid fa-book"></i> <span>Important Judgements</span></a></li>
+                  <li><a href="https://districtcourtseast.gos.pk/judgement.php" target="_blank"><i class="fa-solid fa-book"></i> <span class="list-color">Important Judgements</span></a></li>
         
                 </ul>
               </div>

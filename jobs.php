@@ -42,6 +42,7 @@ include 'header.php';
                 <th scope="col">S.NO</th>
                 <th scope="col">POSTS</th>
                 <th scope="col">YEAR</th>
+                <th scope="col">STATUS</th>
                 <th scope="col">ADVERTISEMENTS</th>
               </tr>
             </thead>
@@ -50,9 +51,10 @@ include 'header.php';
                 <th scope="row">1</th>
                 <td style="width:25%;">CLERK, STENO, HNT, NAIB QASIB, CHIKIDAR,Farash, SWEEPER</td>
                 <td>2023</td>
+                <td>Vacancies filled</td>
                 <td class="text-center">                  
-                  <!-- <a href="https://caselaw.shc.gov.pk/caselaw/public/home"><i class="fas fa-download" aria-hidden="true" style="background-color:#4fbb53;"></i></a> -->
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/publication.jpg" target="_blank">Download</a></button>
+                 
+                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/publication.jpg" target="_blank" style="color:white;">Download</a></button>
                 </td>
               </tr>
             </tbody>
@@ -62,10 +64,18 @@ include 'header.php';
   </div>
 </div>
 
+  <div class="row text-center mt-1">
+			<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="inline-block">					
+					<h3 class="animated fadeInUp apply" style="font-family:calisto MT; color:black !important;">Keep visiting for further updates</h3>	
+				</div>
+			</div>
+	</div>	
+
   <div class="row text-center">
 			<div class="col-lg-12 col-md-12 col-sm-12">
 				<div class="inline-block">					
-					<h3 class="animated fadeInUp apply" style="font-family:calisto MT; color:#ffffff !important;"><a href="https://apply.sts.net.pk">CLICK HERE <br> APPLY ONLINE ON STS WEBSITE</a></h3>	
+					<h3 class="animated fadeInUp apply" style="font-family:calisto MT; color:#ffffff !important;"><a href="index.php">BACK HOME </a></h3>	
 				</div>
 			</div>
 	</div>	
