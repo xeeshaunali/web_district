@@ -78,7 +78,7 @@
 				</ul>
 				<ul class="navbar-nav">
 				<li class="nav-item active"><i class="fa fa-address-book text-white mr-3" aria-hidden="true"></i>
-						<a class="nav-link" href="contact.php">CONTACT <span>||</span> US</a>
+						<a class="nav-link hover_letter_spacing" href="contact.php">CONTACT <span>||</span> US</a>
 					</li>	
 				</ul>
 		</div>		  

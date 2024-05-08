@@ -701,6 +701,11 @@ textarea:hover, input:hover {
 .hover_letter_spacing:hover{
   letter-spacing: 0.2rem !important;
   transition: 0.8s;
+  color: #333333 !important;
+  font-weight: bolder !important;
+  background: white;  
+  box-shadow: 0 0 5px #9262ff, 0 0 25px #9262ff, 0 0 50px #9262ff, 0 0 200px #9262ff;
+  border-radius: 3px;
   
 }
 
@@ -1678,7 +1683,7 @@ h3.quote::before {
 
 
 .navbar-color {
-  background-color: #4fbb53 !important;
+  background-color: #333333 !important;
 }
 
 

@@ -12,7 +12,7 @@
 			<div class="row text-center">
 				<div class="col-md-12 col-sm-12">
 				<div class="copyright text-white mt-3 ">
-						&copy; 2023-24 All Right Reserved <a href="index.php"><span class="text-dark">District Court Jamshoro</span></a>
+						&copy; 2023-24 All Rigcxcht Reserved <a href="index.php"><span class="text-dark">District Court Jamshoro</span></a>
 					</div>
 				</div>
 			</div>
