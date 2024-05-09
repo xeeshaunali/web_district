@@ -46,16 +46,25 @@ include 'header.php';
 			</div>
 		</div>
 
+    <div class="row text-left" >
+			<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="inline-block" style="background-color:#333333">					
+					<h1 class="mb-1 animated fadeInUp h3  rounded shadow" style="font-family:calisto MT; color:#fff !important; font-size:2rem !important; padding-left:0.6rem;">Pension on Retirement</h1>	
+          	
+				</div>
+			</div>
+		</div>
+
     <div class="row container-fluid" style="margin-top:5rem;margin-right:3rem;margin: left 3rem;">
         <div class="col-12 ">
            <!-- Search input -->
-    <input type="text" id="searchInput" class="form-control mb-3" placeholder="Type search query">
+    <!-- <input type="text" id="searchInput" class="form-control mb-3" placeholder="Type search query"> -->
 
           <table class="table table-striped table-resposive round shadow" id="dataTable">
             <thead>
               <tr class="text-center bg-dark text-white">
                 <th scope="col">S.NO</th>
-                <th scope="col">Name of File</th>
+                <th scope="col">Name of Document</th>
                 <th scope="col">Info</th>
                 <th scope="col">Download/View</th>
               </tr>
@@ -63,8 +72,8 @@ include 'header.php';
             <tbody>
               <tr class="text-center">
                 <th scope="row">1</th>
-                <td style="width:25%;">Earned Leave Form</td>
-                <td>Admin</td>
+                <td style="width:25%;">Checklist of Documents required for Pension on Normal Retirement</td>
+                <td>Accounts</td>
                 <td class="text-center">                                   
                   <button type="button" class="btn btn-success rounded shadow btn-hover" data-toggle="collapse"><a href="./images/publication/publication.jpg" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
