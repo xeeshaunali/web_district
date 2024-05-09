@@ -53,6 +53,7 @@ include 'header.php';
 
 <!-- section Three Start -->
 
+<!-- 
 <section class="section container  about-2 position-relative mt-1 shadow rounded">
 	<div class="container">
 		<div class="row" style="height:2rem;">			
@@ -69,8 +70,9 @@ include 'header.php';
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!-- Section Three End -->
+
 
 <!-- Section Copied Start -->
 <div class="site-section" style="margin-top:3rem; margin-bottom:3rem;">

@@ -8,6 +8,7 @@ include 'header.php';
 <!-- Section One Start -->
 
 <div class="main-wrapper ">
+
 <section class="slider">
   <div class="container">
     <div class="row">
@@ -56,7 +57,7 @@ include 'header.php';
                 <td style="width:25%;">Earned Leave Form</td>
                 <td>Admin</td>
                 <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/publication.jpg" target="_blank">Download || View</a></button>
+                  <button type="button" class="btn btn-success rounded shadow btn-hover" data-toggle="collapse"><a href="./images/publication/publication.jpg" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>
               
@@ -65,7 +66,7 @@ include 'header.php';
                 <td style="width:25%;">Unit Policy</td>
                 <td>Issued on 28-02-2000 <br> vide letter Dt.26-02-2016</td>
                 <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/units.pdf" target="_blank">Download || View</a></button>
+                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/units.pdf" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>
 
@@ -75,7 +76,7 @@ include 'header.php';
                 <td style="width:25%;">Pre-Arrest Bail Notification ADJ Sehwan </td>
                 <td>26-08-2008</td>
                 <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/BAIL NOTIFICATION 2008.pdf" target="_blank">Download || View</a></button>
+                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/BAIL NOTIFICATION 2008.pdf" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>
 
@@ -84,8 +85,8 @@ include 'header.php';
                 <th scope="row">4</th>
                 <td style="width:25%;">unit policy illustration</td>
                 <td>MIT-II 2146 <br> Dated: 31-05-2018</td>
-                <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/unit policy illustration.pdf" target="_blank">Download || View</a></button>
+                <td class="text-center" style="color:white;">                                   
+                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/unit policy illustration.pdf" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>
 
@@ -95,7 +96,7 @@ include 'header.php';
                 <td style="width:25%;">Special Courts Anti Rape</td>
                 <td>Designation of Special Courts Anti Rape <br>MIT-II 1148 <br> Dt.22-06-2023</td>
                 <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/publication.jpg" target="_blank">Download || View</a></button>
+                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/publication.jpg" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>
 
@@ -105,7 +106,7 @@ include 'header.php';
                 <td style="width:25%;">Consumer Protection Court <br> Jurisdiction Sindh</td>
                 <td>No. GAZ/ECPC/2018 <br> Dt.16-02-2023</td>
                 <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/Assign jurisdiction to the District Consumer Protection Court.pdf" target="_blank">Download || View</a></button>
+                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/Assign jurisdiction to the District Consumer Protection Court.pdf" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>
 
@@ -114,7 +115,7 @@ include 'header.php';
                 <td style="width:25%;">Notification regarding Basic Pay Protection <br> From Higher to Lower Pay Scale</td>
                 <td>Govt Of Sindh Finance Dept:<br>Dt.05-12-2022</td>
                 <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/Lower to Higher Scale.pdf" target="_blank">Download || View</a></button>
+                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/Lower to Higher Scale.pdf" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>              
 
@@ -123,7 +124,7 @@ include 'header.php';
                 <td style="width:25%;">Designation of Special Court under Anti-Rape<br>(Investigation and Trial) Act 2021</td>
                 <td>MIT-II 616 <br> Dt.19-02-2022</td>
                 <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/anti-rape.jpg" target="_blank">Download || View</a></button>
+                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/anti-rape.jpg" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>
               
@@ -132,7 +133,7 @@ include 'header.php';
                 <td style="width:25%;">Enhancement of Pecuniary Limits of Jurisdiction <br> of Civil Judge in Sindh</td>
                 <td>GAZ/XVI-A-127 <br> Dt.20-11-2021</td>
                 <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/civiljurisdict.pdf" target="_blank">Download || View</a></button>
+                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/civiljurisdict.pdf" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>
               
@@ -141,7 +142,7 @@ include 'header.php';
                 <td style="width:25%;">Establishment of Juvenile Courts</td>
                 <td>SOJI/9-2/2018 (Juvenile Courts)<br> Gov.Sindh Home Dept: <br> Dt.01-04-2019</td>
                 <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/Juvenile Justice.jpg" target="_blank">Download || View</a></button>
+                  <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./images/publication/Juvenile Justice.jpg" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>  
               

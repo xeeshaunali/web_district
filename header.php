@@ -4,8 +4,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="Logo Design" content="District Court Jamshoro Sind Pakistan, Sindh High Court, SindhDistrictCourts.gos.pk">  
-  <meta name="Xeeshaun" content="District Court Jamshoro">
+  <meta name="District Court Jamshoro DJ Jamshoro DJ Justice High Court of Sindh" content="District Court Jamshoro Sind Pakistan, Sindh High Court, sindhdistrictcourts.gos.pk">    
   <title>District & Sessions Court Jamshoro</title>
   <link rel="icon" href="./images/DC-LOGO.png" type="image/x-icon">
   <!-- bootstrap.min css -->
@@ -69,6 +68,7 @@
 					<li class="nav-item active">
 						<a class="nav-link hover_letter_spacing" href="jurisdiction.php">Jurisdiction</a>
 					</li>
+					
 					<li class="nav-item active">
 						<a class="nav-link hover_letter_spacing" href="downloads.php">Downloads</a>
 					</li>
