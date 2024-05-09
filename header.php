@@ -30,6 +30,12 @@
  <!-- Include jQuery from CDN -->
  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>  
 
+<style>
+	a:visited {
+		color:white !important;
+	}
+</style>
+
 
 </head>
 
@@ -68,10 +74,26 @@
 					<li class="nav-item active">
 						<a class="nav-link hover_letter_spacing" href="jurisdiction.php">Jurisdiction</a>
 					</li>
-					
-					<li class="nav-item active">
+					<!-- Start Dropdown -->
+					<li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle hover_letter_spacing visited" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" >
+            Downloads
+          </a>
+          <ul class="dropdown-menu navbar-color text-center">
+            <li><a class="dropdown-item hover_letter_spacing" href="downloads.php" style="color:white;">Notification ||Files</a></li>
+			<li><hr class="dropdown-divider" style="color:white;"></li>
+            <li><a class="dropdown-item hover_letter_spacing" href="pension.php" style="color:white;">Pension Papers</a></li>
+            <li><hr class="dropdown-divider" style="color:white;"></li>
+            <li><a class="dropdown-item hover_letter_spacing" href="#" style="color:white;">Something else here</a></li>
+          </ul>
+        </li>
+
+					<!-- End Dropdown -->
+
+					<!-- <li class="nav-item active">
 						<a class="nav-link hover_letter_spacing" href="downloads.php">Downloads</a>
-					</li>
+					</li> -->
+
 					<li class="nav-item active">
 						<a class="nav-link hover_letter_spacing" href="jobs.php">Jobs</a>
 					</li>			

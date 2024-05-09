@@ -14,7 +14,7 @@ include 'header.php';
     <div class="row">
       <div class="col-md-12">
         <div class="block text-center" data-anijs="if: mouseover, do: fadeIn animated">          
-          <h1 class="text-capitalize mt-5 text-lg" style="font-family:calisto MT; font-size:4rem; color:#FFFFFF; text-shadow: 2px 2px #7a49a5;">Important Notification and Files</h1>
+          <h1 class="text-capitalize mt-5 text-lg" style="font-family:calisto MT; font-size:4rem; color:#FFFFFF; text-shadow: 2px 2px #7a49a5;">Pension Papers</h1>
           </ul>
         </div>
       </div>
@@ -31,11 +31,20 @@ include 'header.php';
 		<div class="row text-center">
 			<div class="col-lg-12 col-md-12 col-sm-12">
 				<div class="inline-block">					
-					<h1 class="mb-1 animated fadeInUp" style="font-family:calisto MT; color:#000000 !important; font-size:4rem !important;">Important Files Download</h1>	
-          <p class="mb-1 animated fadeInUp" style="font-family:calisto MT; color:#000000 !important; font-size:2rem !important;">Search by Name or Initials </p>	
+					<h1 class="mb-1 animated fadeInUp" style="font-family:calisto MT; color:#000000 !important; font-size:4rem !important;">Pension Matters</h1>	
+          <p class="mb-1 animated fadeInUp" style="font-family:calisto MT; color:#000000 !important; font-size:2rem !important;">Search by CTRL F or Scroll </p>	
 				</div>
 			</div>
 		</div>	
+
+    <div class="row text-center">
+			<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="inline-block" style="background-color:#333333">					
+					<h1 class="mb-1 animated fadeInUp h3 mt-5 rounded shadow" style="font-family:calisto MT; color:#fff !important; font-size:3rem !important;">Gazetted Pension Documents</h1>	
+          	
+				</div>
+			</div>
+		</div>
 
     <div class="row container-fluid" style="margin-top:5rem;margin-right:3rem;margin: left 3rem;">
         <div class="col-12 ">
