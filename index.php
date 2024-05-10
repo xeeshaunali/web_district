@@ -122,10 +122,8 @@ include 'header.php';
           <div class="col-sm-6">
               <div class="card card100 border-card mt-2">
 
-                <ul class="list">
-                  <li class="mt-5"><a href="https://cases.districtcourtssindh.gos.pk/" target="_blank"><i class="fa-solid fa-magnifying-glass-plus " ></i> <span class="list-color">Search Case Status</span></a></li>
-        
-                  <li><a href="https://cases.districtcourtssindh.gos.pk/causelist" target="_blank"><i class="fa fa-link"></i> <span class="list-color">Cause List of Courts</span></a></li>
+                <ul class="list">                 
+				  
         
                   <li><a href="http://43.245.130.96/cfms_dc_v26/public-ocp" target="_blank"><i class="fa-solid fa-link"></i> <span class="list-color">Online Court Proceedings</span></a></li>
         
@@ -138,6 +136,10 @@ include 'header.php';
                   <li><a href="https://www.sindhhighcourt.gov.pk/khi/" target="_blank"><i class="fa-brands fa-searchengin"></i><span class="list-color">Case Search (Sindh High Court)</span></a></li>
         
                   <li><a href="https://districtcourtseast.gos.pk/judgement.php" target="_blank"><i class="fa-solid fa-book"></i> <span class="list-color">Important Judgements</span></a></li>
+
+				  <li><a href="https://cases.districtcourtssindh.gos.pk/" target="_blank"><i class="fa-solid fa-link"></i> <span class="list-color">Search Case Status</span></a></li>
+
+				  <li><a href="https://cases.districtcourtssindh.gos.pk/causelist" target="_blank"><i class="fa-solid fa-link"></i> <span class="">Cause List of Courts</span></a></li>
         
                 </ul>
               </div>

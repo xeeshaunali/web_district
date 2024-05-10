@@ -6,25 +6,24 @@ include 'header.php';
 
 <!-- Section One Start -->
 <div class="main-wrapper">
-<section class="page-title slider">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block text-center">          
-          <h1 class="text-capitalize mb-1 mt-3 text-lg animated fadeInUp" style="color:#ffffff;">Career Opertunity</h1>          
+  <section class="page-title slider">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="block text-center">          
+            <h1 class="text-capitalize mb-1 mt-3 text-lg animated fadeInUp" style="color:#ffffff;">Career Opertunity</h1>          
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
-</div>
+  </section>
+
 <!-- Section One End -->
 
 
 <!--Section Two Start-->
 
 <section class="section shadow" style="background-color:#fcfafb;">
-
 <div class="container ">
 		<div class="row text-center">
 			<div class="col-lg-12 col-md-12 col-sm-12">

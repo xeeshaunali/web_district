@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "aos": "^2.3.4"
-  }
+  },
+  "name": "web_district",
+  "version": "1.0.0",
+  "description": "District Court Website",
+  "main": "anijs-helper-scrollreveal-min.js",
+  "devDependencies": {
+    "sass": "^1.77.0"
+  },
+  "scripts": {
+    "compile-sass": "sass app.scss app.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeeshaunali/web_district.git"
+  },
+  "keywords": [
+    "District",
+    "Court"
+  ],
+  "author": "Xeeshaun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xeeshaunali/web_district/issues"
+  },
+  "homepage": "https://github.com/xeeshaunali/web_district#readme"
 }

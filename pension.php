@@ -55,7 +55,7 @@ include 'header.php';
 			</div>
 		</div>
 
-    <div class="row container-fluid" style="margin-top:5rem;margin-right:3rem;margin: left 3rem;">
+    <div class="row container-fluid shadow" style="margin-top:1rem;margin-right:3rem;margin: left 3rem;">
         <div class="col-12 ">
            <!-- Search input -->
     <!-- <input type="text" id="searchInput" class="form-control mb-3" placeholder="Type search query"> -->
@@ -72,10 +72,10 @@ include 'header.php';
             <tbody>
               <tr class="text-center">
                 <th scope="row">1</th>
-                <td style="width:25%;">Checklist of Documents required for Pension on Normal Retirement</td>
-                <td>Accounts</td>
+                <td style="width:25%;">Checklist of Documents required for Pension </td>
+                <td>Retiement of Superanuation</td>
                 <td class="text-center">                                   
-                  <button type="button" class="btn btn-success rounded shadow btn-hover" data-toggle="collapse"><a href="./images/publication/publication.jpg" target="_blank" style="color:white;">Download || View</a></button>
+                <button type="button" class="btn btn-success rounded shadow" data-toggle="collapse"><a href="./pdf/Pension_Normal.pdf" target="_blank" style="color:white;">Download || View</a></button>
                 </td>
               </tr>
               

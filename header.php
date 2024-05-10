@@ -32,8 +32,36 @@
 
 <style>
 	a:visited {
-		color:white !important;
+		color:white !important;		
 	}
+
+	
+
+	table {
+  table-layout: fixed !important;
+  width: 100% !important;
+} 
+
+button {
+	width: 100% !important;
+}
+
+h1 {
+	width: 100% !important;
+}
+
+/* .buttonn {
+	padding: 2px;
+     margin: 10px;     
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     color: snow;
+     transform: skew(20deg);
+     height: 3rem;
+     text-align: center;
+} */
+
 </style>
 
 
@@ -74,9 +102,12 @@
 					<li class="nav-item active">
 						<a class="nav-link hover_letter_spacing" href="jurisdiction.php">Jurisdiction</a>
 					</li>
+					<li class="nav-item active">
+						<a class="nav-link hover_letter_spacing" href="downloads.php">Downloads</a>
+					</li>
 					<!-- Start Dropdown -->
-					<li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle hover_letter_spacing visited" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" >
+					<!-- <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle hover_letter_spacing visited" href="downloads.php" role="button" data-bs-toggle="dropdown" aria-expanded="false" >
             Downloads
           </a>
           <ul class="dropdown-menu navbar-color text-center">
@@ -86,7 +117,7 @@
             <li><hr class="dropdown-divider" style="color:white;"></li>
             <li><a class="dropdown-item hover_letter_spacing" href="#" style="color:white;">Something else here</a></li>
           </ul>
-        </li>
+        </li> -->
 
 					<!-- End Dropdown -->
 
